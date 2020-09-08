@@ -1,0 +1,3 @@
+PURE Functions
+- Use pure functions if theres no state
+    ex. const navigation = () => {}
