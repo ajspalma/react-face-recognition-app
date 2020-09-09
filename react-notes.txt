@@ -1,3 +1,9 @@
 PURE Functions
 - Use pure functions if theres no state
     ex. const navigation = () => {}
+
+
+Test Images
+    - https://i.pinimg.com/736x/d6/a9/57/d6a957f1d8045c9c973c12bf5968326f.jpg
+    - https://cdn.vox-cdn.com/thumbor/Tu-1M2LOaYCbnvR1PsEa_P3qfWY=/0x0:2982x1988/1200x675/filters:focal(1300x352:1776x828)/cdn.vox-cdn.com/uploads/chorus_image/image/66328440/GettyImages_515177654.0.jpg
+    
