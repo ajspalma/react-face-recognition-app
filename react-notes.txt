@@ -15,6 +15,9 @@ for -> htmlFor
 
 Node.JS (Server)
 
+can be used in robotics and other fields 
+-  http://johnny-five.io/ (robotics)
+
 - runs with V8 engine
 - node -v -> version
 - node comes with something called GLOBAL (object)
