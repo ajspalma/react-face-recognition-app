@@ -21,7 +21,6 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "heroku-postbuild": "npm run build"
-    // Reference: https://stackoverflow.com/questions/44319832/react-app-runs-locally-crashes-when-on-heroku-error-code-h10
   },
   "eslintConfig": {
     "extends": "react-app"

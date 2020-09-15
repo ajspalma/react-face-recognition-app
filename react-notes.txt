@@ -27,3 +27,10 @@ can be used in robotics and other fields
 - Some of Global/global object 
     - process (means what the computer is doing)
         - process.exit() - exits node
+
+
+
+
+Fixing react installation in heroku
+
+// Reference: https://stackoverflow.com/questions/44319832/react-app-runs-locally-crashes-when-on-heroku-error-code-h10
